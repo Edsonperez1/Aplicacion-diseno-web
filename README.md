@@ -38,16 +38,14 @@ Markdown es un lenguaje de marcado ligero que permite crear documentos estructur
 - *Cursiva*
 
 ### Enlaces
-- [Texto del enlace](URL_del_enlace)
+- "[Texto del enlace](URL_del_enlace)"
 
 ### Imágenes
-- ![Texto alternativo](URL_de_la_imagen)
+- "![Texto alternativo](URL_de_la_imagen)"
 
-### Código en línea y bloques de codigo
+### Código en línea
 - `Código en línea`
-- ```python
-- # Bloque de código en Python
-print("Hola, mundo!")
+- "```python"
 
 
 
