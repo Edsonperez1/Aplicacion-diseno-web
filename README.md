@@ -45,7 +45,7 @@ Markdown es un lenguaje de marcado ligero que permite crear documentos estructur
 
 ### Código en línea
 - `Código en línea`
-- "```python"
+- ```python
 
 
 
