@@ -20,7 +20,7 @@ Markdown es un lenguaje de marcado ligero que permite crear documentos estructur
 - Soporta enlaces, listas, citas y más
 - Se puede convertir a HTML para mostrar en sitios web
 
-##Opciones de etiquetado en Markdown
+## Opciones de etiquetado en Markdown
 ###Encabezados
 -# Encabezado 1
 -## Encabezado 2
