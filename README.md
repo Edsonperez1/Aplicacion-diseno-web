@@ -45,7 +45,28 @@ Markdown es un lenguaje de marcado ligero que permite crear documentos estructur
 
 ### Código en línea
 - `Código en línea`
-- ```python
+- "```python"
 
+## Comandos git
+### Verificar el estado de un repositorio local
+- git status
+
+### Agregar archivos individualmente o globalmente
+- git add nombre_archivo
+- git add .
+
+### Agregar comentarios a la confirmación
+- git commit -m "mensaje"
+
+### Cargar cambios en el repositorio remoto
+- git push nombre_remoto nombre_rama
+
+### Crear, explorar y eliminar ramas
+- git branch nombre_rama
+- git checkout nombre_rama
+- git branch -d nombre_rama
+
+### Revertir un repositorio a una confirmación específica
+- git revert ID_confirmacion
 
 
