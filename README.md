@@ -32,3 +32,22 @@ Markdown es un lenguaje de marcado ligero que permite crear documentos estructur
 -   - Subelemento 1
 - 1. Elemento numerado 1
 - 2. Elemento numerado 2
+
+### Texto en negrita y cursiva
+- **Negrita**
+- *Cursiva*
+
+### Enlaces
+- [Texto del enlace](URL_del_enlace)
+
+### Imágenes
+- ![Texto alternativo](URL_de_la_imagen)
+
+### Código en línea y bloques de codigo
+- `Código en línea`
+- ```python
+- # Bloque de código en Python
+print("Hola, mundo!")
+
+
+
