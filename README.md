@@ -25,3 +25,10 @@ Markdown es un lenguaje de marcado ligero que permite crear documentos estructur
 -# Encabezado 1
 -## Encabezado 2
 -### Encabezado 3
+
+### Listas
+- - Elemento 1
+- - Elemento 2
+-   - Subelemento 1
+- 1. Elemento numerado 1
+- 2. Elemento numerado 2
